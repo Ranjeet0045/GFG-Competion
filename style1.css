@@ -1,0 +1,156 @@
+*{
+    padding:0;
+    margin:0;
+    font-family:  Assistant, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+}
+.box{
+    height:40px;
+    width:50px;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    font-weight:bolder;
+}
+img{
+    margin-top: 5px;
+    margin-left: 25px;
+    height:60px;
+    width:110px;
+}
+nav{
+    display:flex;
+   align-items: center;
+   background-color: rgba(245, 222, 179, 0.068);
+}
+#div2{
+    width:100px;
+    height: 40px;
+    margin-left: 5px;
+}
+#div4{
+    height:40px;
+    width: 150px;
+    margin-left: 15px;
+}
+#search{
+    height:20px;
+    width:20px;
+}
+button{
+    height:40px;
+    width:500px;
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    border-radius: 10px;
+    background-color:rgba(216, 216, 216, 0.263);
+    border: none;
+}
+div0{
+    margin-left: 25px;
+}
+#div5{
+    margin-left: 15px;
+    width: 80px;
+}
+#div6{
+    margin-left: 15px;
+    width:70px;
+}
+#div7{
+    margin-left: 15px;
+    width:55px;
+    height: 50px;
+    display:grid;
+}
+#div9{
+    margin-left: 0px;
+    width:50px;
+    display: grid;
+    height: 50px;
+}
+#profile{
+    height:20px;
+    width:20px;
+    margin-left: 10px;
+}
+#wishlist{
+    height:20px;
+    width:20px;
+    margin-left:15px ;
+}
+#bag{
+    height:20px;
+    width:20px;
+    margin-left:5px ; 
+}
+#div10{
+    height: 400px;
+    width: 1050px;
+    background-color: rgb(13, 207, 207);
+}
+#Banner{
+    margin: 0px;
+    height:400px;
+    width:1050px;
+}
+#div11{
+    height:400px;
+    width:490px;
+    background-color: rgba(7, 158, 88, 0.356);
+}
+main{
+    margin-top: 40px;
+    display:flex;
+}
+#div12{
+    margin-top: 100px;
+    margin-left: 45px;
+    font-size:45px;
+}
+#div13{
+    font-size:x-large;
+    margin-left: 45px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+hr{
+    margin-left: 5px;
+    margin-right: 50px;
+}
+#div14{
+    margin-left: 45px;
+    margin-top: 30px;
+}
+#div15{
+    height:320px;
+    width:35px;
+    background-color: rgba(0, 0, 0, 0.607);
+    color: white;
+    position:fixed;
+    left: 97.62%;
+    top:40%;
+    writing-mode:vertical-lr;
+    rotate: 180deg;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+}
+#logo{
+    rotate:90deg;
+    height:25px;
+    width:25px;
+    margin-right: 30px;
+    margin-top: 40px;
+}
+.search_bar{
+    border:none;
+    padding-right:50px;
+
+}
+.search_bar:click{
+    border:none;
+}
+
